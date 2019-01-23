@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 tup1 = (12, 34.56);
-tup2 = ('abc', 'xyz');
+tup2 = ('abc', 'xyz','def');
 
 # Following action is not valid for tuples
 # tup1[0] = 100;
